@@ -2,7 +2,6 @@
   "name": "slade-homebrew",
   "title": "Slade's Homebrew",
   "description": "Slade's Houserules & Homebrews for D&D 5e.",
-  "version": "0.1.0",
   "author": "Slade",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
@@ -36,6 +35,8 @@
       "type": "Item"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Chris-Slade/slade-homebrew/master/module.json",
-  "download": "https://github.com/Chris-Slade/slade-homebrew/releases/download/0.1.0/slade-homebrew.zip"
+  "version": "This is auto replaced",
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
 }
