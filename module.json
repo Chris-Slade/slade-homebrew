@@ -1,0 +1,41 @@
+{
+  "name": "slade-homebrew",
+  "title": "Slade's Homebrew",
+  "description": "Slade's Houserules & Homebrews for D&D 5e.",
+  "version": "0.1.0",
+  "author": "Slade",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "name": "martial-homebrew",
+      "label": "Martial Homebrew",
+      "path": "./packs/martial-homebrew.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "revised-feats",
+      "label": "Revised Feats",
+      "path": "./packs/revised-feats.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "revised-features",
+      "label": "Revised Features",
+      "path": "./packs/revised-features.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "revised-spells",
+      "label": "Revised Spells",
+      "path": "./packs/revised-spells.db",
+      "entity": "Item",
+      "type": "Item"
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
