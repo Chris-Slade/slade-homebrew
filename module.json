@@ -33,6 +33,13 @@
       "path": "./packs/revised-spells.db",
       "entity": "Item",
       "type": "Item"
+    },
+    {
+      "name": "monk-fixes",
+      "label": "Monk Fixes",
+      "path": "./packs/monk-fixes.db",
+      "entity": "Item",
+      "type": "Item"
     }
   ],
   "version": "This is auto replaced",
