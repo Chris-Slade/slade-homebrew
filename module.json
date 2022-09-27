@@ -1,45 +1,58 @@
 {
+  "id": "slade-homebrew",
   "name": "slade-homebrew",
   "title": "Slade's Homebrew",
   "description": "Slade's Houserules & Homebrews for D&D 5e.",
-  "author": "Slade",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "9",
+  "authors": [{ "name": "Slade" }],
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
   "packs": [
     {
       "name": "martial-homebrew",
       "label": "Martial Homebrew",
       "path": "./packs/martial-homebrew.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "slade-hombrew"
     },
     {
       "name": "revised-feats",
       "label": "Revised Feats",
       "path": "./packs/revised-feats.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "slade-hombrew"
     },
     {
       "name": "revised-features",
       "label": "Revised Features",
       "path": "./packs/revised-features.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "slade-hombrew"
     },
     {
       "name": "revised-spells",
       "label": "Revised Spells",
       "path": "./packs/revised-spells.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "slade-hombrew"
     },
     {
       "name": "monk-fixes",
       "label": "Monk Fixes",
       "path": "./packs/monk-fixes.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "dnd5e",
+      "module": "slade-hombrew"
     }
   ],
   "version": "This is auto replaced",
